@@ -4,7 +4,7 @@ subtitle: "Identifying the major common factors in ADHD in children"
 author: Bilal Haq
 thanks: "Code and data are available at: https://github.com/haqbilal/Identifying-ADHD-in-children"
 date: "`r format(Sys.time(), '%d %B %Y')`"
-abstract: "ADHD in children affects their ability to sit still and self control. In this paper, we determine the underlying common factors among children with this condition. We then provide a model to determine the probability of a child having ADHD, given the conditions they satisfy. From this, we conclude that those with poor results in the cognitive tests done by the NLSCY were most likely to suffer with ADHD in their life, thus giving us a significant indicator of the disorder in children. \\par \\textbf{Keywords:} ADHD, cognitive, survey, children, linear regression with post-stratification"
+abstract: "ADHD in children affects their ability to sit still and self control. In this paper, we determine the underlying common factors among children with this condition. We then provide a model to determine the probability of a child having ADHD, given the conditions they satisfy. From this, we conclude that those with poor results in the cognitive tests done by the NLSCY were most likely to suffer with ADHD in their life, thus giving us a significant indicator of the disorder in children. \\par \\textbf{Keywords:} ADHD, cognitive, survey, children"
 output: bookdown::pdf_document2
 toc: TRUE
 bibliography: references.bib
@@ -14,34 +14,25 @@ bibliography: references.bib
 knitr::opts_chunk$set(echo = TRUE)
 
 library(tidyverse)
-library(palmerpenguins)
 ```
 
 # Introduction
-
-NOTE: As this project is a work in progress, all contents of the repository are subject to change !!!
 
 I aim to answer the research question: What are the key factors in identifying a child with ADHD (attention deficit hyperactivity disorder). This disorder affects a person's ability to sit still and self control, which can be harmful for children in certain environments, such as school, where it hinders their ability to learn. As a result, it is prudent to define and declare the key factors that are present in those with the disorder, so that parents can detect it early in their child and administer appropriate treatment to mitigate any loss.
 
 The National Longitudinal Survey of Children and Youth (NLSCY) is a long-term study of Canadian children that follows their development and well-being from birth to early adulthood. The study is designed to collect information about factors influencing a child's social, emotional and behavioural development and to monitor the impact of these factors on the child's development over time. This survey, conducted by Statistics Canada, but discontinued in 2009, will be useful as it includes the results of cognitive tests run on children of a large sample size. Thus, we can compare those with and without ADHD and decipher the underlying components behind the disorder in the first place.
 
-I have accessed the dataset through the University of Toronto (instructions available in 01-obtain_data.R).
-
 # Data
 
-Under construction
 
 # Model
 
-Under construction
 
 # Results
 
-Under construction
 
 # Discussion
 
-Under construction
 
 ## First discussion point
 
@@ -69,7 +60,6 @@ Under construction
 
 # Appendix {-}
 
-Under construction
 
 # Additional details
 
