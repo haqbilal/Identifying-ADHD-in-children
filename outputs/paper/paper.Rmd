@@ -22,6 +22,8 @@ I aim to answer the research question: What are the key factors in identifying a
 
 The National Longitudinal Survey of Children and Youth (NLSCY) is a long-term study of Canadian children that follows their development and well-being from birth to early adulthood. The study is designed to collect information about factors influencing a child's social, emotional and behavioural development and to monitor the impact of these factors on the child's development over time. This survey, conducted by Statistics Canada, but discontinued in 2009, will be useful as it includes the results of cognitive tests run on children of a large sample size. Thus, we can compare those with and without ADHD and decipher the underlying components behind the disorder in the first place.
 
+R was used (@citeR) to prepare and compile the report.
+
 # Data
 
 
