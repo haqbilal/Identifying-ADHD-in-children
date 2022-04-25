@@ -2,7 +2,7 @@
 
 NOTE: As this project is a work in progress, all contents of the repository are subject to change !!!
 
-This paper contains the R project used in creating the paper "TITLE TO BE DETERMINED". 
+This paper contains the R project used in creating the paper "May I have your attention please?". 
 
 I aim to answer the research question: What are the key factors in identifying a child with ADHD (attention deficit hyperactivity disorder). This disorder affects a person's ability to sit still and self control, which can be harmful for children in certain environments, such as school, where it hinders their ability to learn. As a result, it is prudent to define and declare the key factors that are present in those with the disorder, so that parents can detect it early in their child and administer appropriate treatment to mitigate any loss.
 
